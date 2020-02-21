@@ -1,0 +1,8 @@
+Button;obj\Debug\90\res\layout\main.xml
+Button;obj\Debug\90\res\layout\register.xml
+EditText;obj\Debug\90\res\layout\main.xml
+EditText;obj\Debug\90\res\layout\register.xml
+LinearLayout;obj\Debug\90\res\layout\main.xml
+LinearLayout;obj\Debug\90\res\layout\register.xml
+resources;obj\Debug\90\res\values\strings.xml
+string;obj\Debug\90\res\values\strings.xml
